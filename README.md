@@ -5,4 +5,5 @@ The site is written using languages such as:
 - CSS
 - PHP
 - JavaScript
+
 PhpMailer was used for mailing.
