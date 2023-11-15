@@ -11,3 +11,9 @@ The site is written using languages such as:
 
 PhpMailer was used for mailing.
 The site is made entirely in Latvian.
+
+**To login as administrator:**
+
+Email - admin@mail.com
+
+Password - admin
