@@ -8,7 +8,7 @@ The site is written using languages such as:
 - CSS
 - PHP
 - JavaScript
-- SQL
+- MySQL
 
 PhpMailer was used for mailing.
 The site is made entirely in Latvian.
